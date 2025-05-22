@@ -1,0 +1,64 @@
+body{
+    color : rgb(255, 255, 255) ;
+}
+
+.ListElt{
+    color:rgb(255, 255, 255) ;
+}
+
+.profile-summary{
+    color:rgb(255, 255, 255);
+}
+
+.points li{
+    color:rgb(255, 255, 255);
+}
+
+
+.background {
+  width: 100%;
+  height: 200vh; /* Or use min-height: 100vh; */
+  background-image: url("/PORTFOLIO/IMAGERESUME.jpg");
+  background-repeat:repeat;
+  background-size: cover;
+  background-position: center right; /* Optional: centers the image */
+}
+
+
+.prof{
+background-color: rgb(1, 35, 35) ;
+width: 50dvw;
+height: 50dvh;
+min-width: 300px;
+
+padding-bottom:10;
+padding-left:20;
+padding-right:10;
+padding-block: 10px 100px;          
+border: 7px solid black ;
+  
+}
+
+#name{
+    color:black ;
+    background-color: aliceblue ;
+    padding: 10px 20px;
+}
+
+.down{
+    height: 100%;
+    width : 100%;
+  color:black ;
+    background-color: aliceblue ;
+}
+
+
+.index-content{
+    
+    width: 100vw;
+    height: 100vw;
+    background-image: url("/PORTFOLIO/IMAGEINDEX.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
