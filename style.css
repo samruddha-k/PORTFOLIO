@@ -17,7 +17,7 @@ body{
 
 .background {
   width: 100%;
-  height: 200vh; /* Or use min-height: 100vh; */
+  min-height: 100vh; /* Or use min-height: 100vh; */
   background-image: url("/PORTFOLIO/IMAGERESUME.jpg");
   background-repeat:repeat;
   background-size: cover;
@@ -56,7 +56,7 @@ border: 7px solid black ;
 .index-content{
     
     width: 100vw;
-    height: 100vw;
+   min-height: 100vh;
     background-image: url("/PORTFOLIO/IMAGEINDEX.jpg");
     background-size:cover;
     background-repeat: no-repeat;
